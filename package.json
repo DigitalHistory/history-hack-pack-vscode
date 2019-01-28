@@ -1,0 +1,24 @@
+{
+    "name": "history-hack-pack",
+    "displayName": "History Hack Pack",
+    "description": "Extensions for use in Digital History classes at University of Toronto",
+    "version": "0.0.2",
+  "publisher": "digital-history",
+    "engines": {
+        "vscode": "^1.30.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "dbaeumer.vscode-eslint", 
+        "GitHub.vscode-pull-request-github", 
+        "HookyQR.beautify", 
+        "maty.vscode-mocha-sidebar", 
+        "ms-vsliveshare.vsliveshare", 
+        "negokaz.live-server-preview",
+        "eg2.vscode-npm-script",
+      "mdickin.markdown-shortcuts",
+      "tootone.org-mode"
+    ]
+}
