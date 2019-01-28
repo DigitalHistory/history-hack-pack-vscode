@@ -4,6 +4,10 @@
     "description": "Extensions for use in Digital History classes at University of Toronto",
     "version": "0.0.2",
   "publisher": "digital-history",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DigitalHistory/history-hack-pack-vscode"
+  },
     "engines": {
         "vscode": "^1.30.0"
     },
