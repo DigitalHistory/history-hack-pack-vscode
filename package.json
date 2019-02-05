@@ -2,7 +2,7 @@
     "name": "history-hack-pack",
     "displayName": "History Hack Pack",
     "description": "Extensions for use in Digital History classes at University of Toronto",
-    "version": "0.0.2",
+    "version": "0.0.3",
   "publisher": "digital-history",
   "repository": {
     "type": "git",
@@ -23,6 +23,7 @@
         "negokaz.live-server-preview",
         "eg2.vscode-npm-script",
       "mdickin.markdown-shortcuts",
-      "tootone.org-mode"
+      "tootone.org-mode",
+      "WallabyJs.quokka-vscode"
     ]
 }

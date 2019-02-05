@@ -13,5 +13,19 @@ This "extension pack" will install several tools that may be helpful to you in _
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) gives fnatastic hints about how to improve your JavaScript code.
 - [HTML Hint](https://marketplace.visualstudio.com/items?itemName=mkaufman.HTMLHint) helps you to write better HTML
 - [Org-mode](https://marketplace.visualstudio.com/items?itemName=tootone.org-mode) enables syntax highlighting for some of the README files in our repositories.
+- [Quokka](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode) is a powerful tool that does **some** evaluation of javascript from inside your editor.  For instanc,e you can use it to check the value of a variable:
 
+  ``` javascript
+  function returnArray (first, second, third) {
+    // you can define the array using "new Array ()" or just "[ , , ]"
+    // don't forget to return it
+    // return ; // add the falue here!
+  }
+  
+  let a = returnArray (1, 3,5);
+  a
+  ```
+  Quokka will show the value of `a` in your Vscode editor window, like this: 
+  ![](./images/quokka.png)
+  Check the Quokka docs for more info
 **Have Fun!**
