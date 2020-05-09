@@ -2,32 +2,31 @@
     "name": "history-hack-pack",
     "displayName": "History Hack Pack",
     "description": "Extensions for use in Digital History classes at University of Toronto",
-    "version": "0.0.4",
-  "publisher": "digital-history",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/DigitalHistory/history-hack-pack-vscode"
-  },
+    "version": "0.0.5",
+    "publisher": "digital-history",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DigitalHistory/history-hack-pack-vscode"
+    },
     "engines": {
         "vscode": "^1.30.0"
     },
     "categories": [
         "Extension Packs"
     ],
-    "extensionPack": [ 
-        "dbaeumer.vscode-eslint", 
+    "extensionPack": [
+        "dbaeumer.vscode-eslint",
         "GitHub.vscode-pull-request-github",
         "hbenl.vscode-mocha-test-adapter",
-        "HookyQR.beautify", 
-        "ms-vsliveshare.vsliveshare", 
+        "HookyQR.beautify",
+        "ms-vsliveshare.vsliveshare",
         "negokaz.live-server-preview",
         "eg2.vscode-npm-script",
         "mdickin.markdown-shortcuts",
         "vscode-org-mode.org-mode",
         "WallabyJs.quokka-vscode"
     ],
-  "deprecatedExtensions": [
-    "maty.vscode-mocha-sidebar"
-    
-  ]
+    "deprecatedExtensions": [
+        "maty.vscode-mocha-sidebar"
+    ]
 }
