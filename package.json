@@ -24,7 +24,8 @@
         "eg2.vscode-npm-script",
         "mdickin.markdown-shortcuts",
         "vscode-org-mode.org-mode",
-        "WallabyJs.quokka-vscode"
+      "WallabyJs.quokka-vscode",
+      "JounQin.vscode-mdx"
     ],
     "deprecatedExtensions": [
         "maty.vscode-mocha-sidebar"

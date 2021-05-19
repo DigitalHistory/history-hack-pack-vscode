@@ -1,7 +1,7 @@
 # History Hack Pack
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This "extension pack" will install several tools that may be helpful to you in _HIS393: Digital History_ at the University of Toronto. The MIT license above applies only to this extension pack; indiviual extensions are governed by their own licenses. 
+This "extension pack" will install several tools that may be helpful to you in _HIS393: Digital History_ at the University of Toronto. The MIT license above applies only to this extension pack; individual extensions are governed by their own licenses. 
 
 - The [Live share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) extension allows you to edit collaboratively with someone else.  This is quite new, we'll see if we can make use of it in class. 
 - [Live Server Preview](https://marketplace.visualstudio.com/items?itemName=negokaz.live-server-preview) shows you what your code will look like once it's on a webserver and being observed in a browser
